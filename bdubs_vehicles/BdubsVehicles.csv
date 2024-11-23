@@ -1,0 +1,460 @@
+Key,English,Russian
+Trader_Mechanic,The Mechanic's Shop,Магазин Механика
+TraderMechanic_b,The Mechanic,Механик
+BVbillboard,Bdub's Vehicles Billboard,Билборд Bdub's Vehicles
+,,
+vehicleBicycleOldBVChassis,Old Bicycle Chassis,Каркас старого велосипеда
+vehicleBicycleOldBVHandlebars,Old Bicycle Handlebars,Руль старого велосипеда
+vehicleBicycleOldBVPlaceable,Old Bicycle,Старый велосипед
+vehicleBicycleOldBVPlaceableDesc,Old Bicycle.,Старый велосипед
+vehicleBicycleOldBV,Old Bicycle,Старый велосипед
+vehicleMinibikeOldBVChassis,Old Minibike Chassis,Каркас старого мини-байка
+vehicleMinibikeOldBVHandlebars,Old Minibike Handlebars,Руль старого мини-байка
+vehicleMinibikeOldBVPlaceable,Old Minibike,Старый мини-байк
+vehicleMinibikeOldBVPlaceableDesc,Old Minibike.,Старый мини-байк
+vehicleMinibikeOldBV,Old Minibike,Старый мини-байк
+vehicleMotorcycleOldBVChassis,Old Motorcycle Chassis,Каркас старого мотоцикла
+vehicleMotorcycleOldBVHandlebars,Old Motorcycle Handlebars,Руль старого мотоцикла
+vehicleMotorcycleOldBVPlaceable,Old Motorcycle,Старый мотоцикл
+vehicleMotorcycleOldBVPlaceableDesc,Old Motorcycle.,Старый мотоцикл
+vehicleMotorcycleOldBV,Old Motorcycle,Старый мотоцикл
+vehicleTruck4x4OldBVChassis,Old Jeep Chassis,Каркас старого грузовика 4x4
+vehicleTruck4x4OldBVAccessories,Old Jeep Accessories,Запчасти старого грузовика 4x4
+vehicleTruck4x4OldBVPlaceable,Old Jeep,Старый грузовик 4x4
+vehicleTruck4x4OldBVPlaceableDesc,Old Jeep.,Старый грузовик 4x4
+vehicleTruck4x4OldBV,Old Jeep,Старый грузовик 4x4
+vehicleGyrocopterOldBVChassis,Old Gyrocopter Chassis,Каркас старого автожира
+vehicleGyrocopterOldBVAccessories,Old Gyrocopter Accessories,Запчасти старого автожира
+vehicleGyrocopterOldBVPlaceable,Old Gyrocopter,Старый автожир
+vehicleGyrocopterOldBVPlaceableDesc,Old Gyrocopter.,Старый автожир
+vehicleGyrocopterOldBV,Old Gyrocopter,Старый автожир
+,,
+vehicleBoxTruckbody,Box Truck Body,Кузов фургона
+vehicleBoxTruckbodyDesc,Parts needed to craft the Box Truck.,"Запчасть, которая используется для создания фургона."
+vehicleBoxTruckchassis,Box Truck Chassis,Каркас фургона
+vehicleBoxTruckchassisDesc,Parts needed to craft the Box Truck.,"Запчасть, которая используется для создания фургона."
+vehicleBoxTruckPlain,Box Truck,Фургон
+vehicleBoxTruckPlainplaceable,Box Truck,Фургон
+vehicleBoxTruckPlainplaceableDesc,An old Box Truck.,Старый фургон.
+vehicleBoxTruckHostess,Hostess Box Truck,Фургон Hostess
+vehicleBoxTruckHostessplaceable,Hostess Box Truck,Фургон Hostess
+vehicleBoxTruckHostessplaceableDesc,Tallahassee's favorite!,Любимец Таллахасси!
+,,
+vehicleGNXchassis,GNX Chassis,Каркас Byik GNX
+vehicleGNXchassisDesc,Parts needed to craft the GNX.,"Запчасть, которая используется для создания Byik GNX."
+vehicleGNXaccessories,GNX Body,Кузов Byik GNX
+vehicleGNXaccessoriesDesc,Parts needed to craft the GNX.,"Запчасть, которая используется для создания Byik GNX."
+vehicleGNX,GNX,Byik GNX
+vehicleGNXplaceable,GNX,Byik GNX
+vehicleGNXplaceableDesc,Cruise the wasteland in style!,Путешествуйте по пустоши элегантно!
+vehicleGNXRed,GNX,Byik GNX (Красный)
+vehicleGNXRedplaceable,GNX Red,Byik GNX (Красный)
+vehicleGNXRedplaceableDesc,Cruise the wasteland in style!,Путешествуйте по пустоши элегантно!
+,,
+vehicleGolfCart,Golf Cart,Гольф-карт
+vehicleGolfCartchassis,Golf Cart Chassis,Каркас гольф-карта
+vehicleGolfCartchassisDesc,Parts needed to craft the Golf Cart.,"Запчасть, которая используется для создания гольф-карта."
+vehicleGolfCartaccessories,Golf Cart Accessories,Запчасти гольф-карта
+vehicleGolfCartaccessoriesDesc,Parts needed to craft the Golf Cart.,"Запчасть, которая используется для создания гольф-карта."
+vehicleGolfCartplaceable,Golf Cart,Гольф-карт
+vehicleGolfCartplaceableDesc,It might not be much but it's better than walking!,"Это немного, но это лучше чем пешком!"
+meleeGolfClub,Golf Club,Клюшка для гольфа
+meleeGolfClubDesc,No golf balls? There's always plenty of zombies to practice that swing on!,Нет мячей для гольфа? Всегда можно попрактиковаться на зомби!
+,,
+vehicleWillyJeep,Willy Jeep,Джип Willy
+vehicleWillyJeepplaceable,Willy Jeep,Джип Willy
+vehicleWillyJeepplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepTopless,Willy Jeep,Джип Willy
+vehicleWillyJeepToplessplaceable,Willy Jeep,Джип Willy
+vehicleWillyJeepToplessplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepBlack,Willy Jeep (Black),Джип Willy (Черный)
+vehicleWillyJeepBlackplaceable,Willy Jeep (Black),Джип Willy (Черный)
+vehicleWillyJeepBlackplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessBlack,Willy Jeep (Black),Джип Willy (Черный)
+vehicleWillyJeepToplessBlackplaceable,Willy Jeep (Black),Джип Willy (Черный)
+vehicleWillyJeepToplessBlackplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepBlue,Willy Jeep (Blue),Джип Willy (Синий)
+vehicleWillyJeepBlueplaceable,Willy Jeep (Blue),Джип Willy (Синий)
+vehicleWillyJeepBlueplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessBlue,Willy Jeep (Blue),Джип Willy (Синий)
+vehicleWillyJeepToplessBlueplaceable,Willy Jeep (Blue),Джип Willy (Синий)
+vehicleWillyJeepToplessBlueplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepGreen,Willy Jeep (Green),Джип Willy (Зеленый)
+vehicleWillyJeepGreenplaceable,Willy Jeep (Green),Джип Willy (Зеленый)
+vehicleWillyJeepGreenplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessGreen,Willy Jeep (Green),Джип Willy (Зеленый)
+vehicleWillyJeepToplessGreenplaceable,Willy Jeep (Green),Джип Willy (Зеленый)
+vehicleWillyJeepToplessGreenplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepOrange,Willy Jeep (Orange),Джип Willy (Оранжевый)
+vehicleWillyJeepOrangeplaceable,Willy Jeep (Orange),Джип Willy (Оранжевый)
+vehicleWillyJeepOrangeplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessOrange,Willy Jeep (Orange),Джип Willy (Оранжевый)
+vehicleWillyJeepToplessOrangeplaceable,Willy Jeep (Orange),Джип Willy (Оранжевый)
+vehicleWillyJeepToplessOrangeplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepPurple,Willy Jeep (Purple),Джип Willy (Фиолетовый)
+vehicleWillyJeepPurpleplaceable,Willy Jeep (Purple),Джип Willy (Фиолетовый)
+vehicleWillyJeepPurpleplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessPurple,Willy Jeep (Purple),Джип Willy (Фиолетовый)
+vehicleWillyJeepToplessPurpleplaceable,Willy Jeep (Purple),Джип Willy (Фиолетовый)
+vehicleWillyJeepToplessPurpleplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleWillyJeepRed,Willy Jeep (Red),Джип Willy (Красный)
+vehicleWillyJeepRedplaceable,Willy Jeep (Red),Джип Willy (Красный)
+vehicleWillyJeepRedplaceableDesc,If it survived WW2 surely it can handle this!,"Если он выжил во время Второй мировой войны, то он определенно справится с этим!"
+vehicleWillyJeepToplessRed,Willy Jeep (Red),Джип Willy (Красный)
+vehicleWillyJeepToplessRedplaceable,Willy Jeep (Red),Джип Willy (Красный)
+vehicleWillyJeepToplessRedplaceableDesc,Now with even more wind-in-hair action!,Теперь с еще большим ветерком!
+,,
+vehicleMRAP,MRAP,MRAP
+vehicleMRAP2,MRAP,MRAP
+vehicleMRAPplaceable,MRAP,MRAP
+vehicleMRAP2placeableDesc,A MRAP military vehicle. What else could you want?,Бронированная военная машина MRAP. Чего еще можно желать?
+vehicleMRAP2placeable,MRAP,MRAP
+vehicleMRAPplaceableDesc,A MRAP military vehicle. What else could you want?,Бронированная военная машина MRAP. Чего еще можно желать?
+vehicleMRAPaccessories,MRAP Accessories,Обвес MRAP
+vehicleMRAPaccessoriesDesc,Accessories needed to craft the MRAP.,"Запчасть, которая используется для создания MRAP."
+vehicleMRAPparts,MRAP Parts,Запчасти MRAP
+vehicleMRAPpartsDesc,Parts needed to craft the MRAP.,"Запчасть, которая используется для создания MRAP."
+,,
+vehicleMarauder,Marauder,Мародер
+vehicleMarauderplaceable,Marauder,Мародер
+vehicleMarauderplaceableDesc,Those zombies will be jealous of this ride!,Эти зомби будут завидовать этой поездке!
+vehicleMarauderblack,Marauder,Мародер
+vehicleMarauderblackplaceable,Marauder,Мародер
+vehicleMarauderblackplaceableDesc,Those zombies will be jealous of this ride!,Эти зомби будут завидовать этой поездке!
+vehicleMarauderchassis,Marauder Chassis,Каркас Мародера
+vehicleMarauderchassisDesc,Parts needed to craft the Marauder.,"Запчасть, которая используется для создания Мародера."
+vehicleMarauderaccessories,Marauder Accessories,Запчасти Мародера
+vehicleMarauderaccessoriesDesc,Parts needed to craft the Marauder.,"Запчасть, которая используется для создания Мародера."
+,,
+vehicleUAZaccessories,UAZ 452 Accessories,Запчасти УАЗ-452
+vehicleUAZaccessoriesDesc,Parts needed to craft the UAZ 452.,"Запчасть, которая используется для создания УАЗ-452."
+vehicleUAZ452chassis,UAZ 452 Chassis,Каркаc УАЗ-452
+vehicleUAZ452chassisDesc,Parts needed to craft the UAZ 452.,"Запчасть, которая используется для создания УАЗ-452."
+vehicleUAZ452,UAZ 452,УАЗ-452
+vehicleUAZ452placeable,UAZ 452,УАЗ-452
+vehicleUAZ452placeableDesc,Blend right in with the apocalypse!,Сливайтесь с апокалипсисом!
+,,
+vehicleNovachassis,Nova Chassis,Каркаc Chewrolat Nova
+vehicleNovachassisDesc,Parts needed to craft the Nova.,"Запчасть, которая используется для создания Chewrolat Nova."
+vehicleNovaaccessories,Nova Accessories,Запчасти Chewrolat Nova
+vehicleNovaaccessoriesDesc,Parts needed to craft the Nova.,"Запчасть, которая используется для создания Chewrolat Nova."
+vehicleNova,Nova,Chewrolat Nova
+vehicleNovaplaceable,Nova,Chewrolat Nova
+vehicleNovaplaceableDesc,Classic...,Классика...
+vehicleNovared,Nova Red,Chewrolat Nova (Красный)
+vehicleNovaredplaceable,Nova Red,Chewrolat Nova (Красный)
+vehicleNovaredplaceableDesc,Classic...,Классика...
+vehicleNovablack,Nova Black,Chewrolat Nova (Черный)
+vehicleNovablackplaceable,Nova Black,Chewrolat Nova (Черный)
+vehicleNovablackplaceableDesc,Classic...,Классика...
+,,
+vehicleWorkTruckchassis,Work Truck Chassis,Кузов служебного грузовика
+vehicleWorkTruckchassisDesc,Parts needed to craft the Work Truck.,"Запчасть, которая используется для создания служебного грузовика."
+vehicleWorkTruckaccessories,Work Truck Accessories,Запчасти служебного грузовика
+vehicleWorkTruckaccessoriesDesc,Parts needed to craft the Work Truck.,"Запчасть, которая используется для создания служебного грузовика."
+vehicleWorkTruck,Work Truck,Служебный грузовик
+vehicleWorkTruckplaceable,Work Truck,Служебный грузовик
+vehicleWorkTruckplaceableDesc,Looks like it's been through more than just an apocalypse...,"Похоже, он прошел через нечто большее, чем просто апокалипсис..."
+,,
+vehicleBRDM2chassis,BRDM-2 Chassis,Каркас БРДМ-2
+vehicleBRDM2chassisDesc,Parts needed to craft the BRDM-2.,"Запчасть, которая используется для создания БРДМ-2."
+vehicleBRDM2accessories,BRDM-2 Accessories,Запчасти БРДМ-2
+vehicleBRDM2accessoriesDesc,Parts needed to craft the BRDM-2.,"Запчасть, которая используется для создания БРДМ-2."
+vehicleBRDM2,BRDM-2,БРДМ-2
+vehicleBRDM2placeable,BRDM-2,БРДМ-2
+vehicleBRDM2placeableDesc,A surprisingly intact military vehicle.,На удивление целая военная машина.
+vehicleBRDM2desert,BRDM-2 Desert,БРДМ-2 (Пустынный)
+vehicleBRDM2desertplaceable,BRDM-2 Desert,БРДМ-2 (Пустынный)
+vehicleBRDM2desertplaceableDesc,A surprisingly intact military vehicle.,На удивление целая военная машина.
+,,
+vehiclePickupchassis,Pickup Chassis,Каркас пикапа
+vehiclePickupchassisDesc,Parts needed to craft the Pickup.,"Запчасть, которая используется для создания пикапа."
+vehiclePickupaccessories,Pickup Accessories,Запчасти пикапа
+vehiclePickupaccessoriesDesc,Parts needed to craft the Pickup.,"Запчасть, которая используется для создания пикапа."
+vehiclePickup,Pickup,Пикап
+vehiclePickupplaceable,Pickup,Пикап
+vehiclePickupplaceableDesc,Make those zeds jealous with this stylish truck!,Заставьте этих зомби завидовать этому стильному грузовику!
+,,
+vehicleMD500chassis,MD-500 Chassis,Каркас MD-500
+vehicleMD500chassisDesc,Parts needed to craft the MD-500.,"Запчасть, которая используется для создания MD-500."
+vehicleMD500accessories,MD-500 Accessories,Запчасти MD-500
+vehicleMD500accessoriesDesc,Parts needed to craft the MD-500.,"Запчасть, которая используется для создания MD-500."
+vehicleMD500,MD-500,MD-500
+vehicleMD500placeable,MD-500,MD-500
+vehicleMD500placeableDesc,They can't kill you if they can't hit you!,"Они не смогут убить тебя, если не смогут достать!"
+,,
+vehicleDusterchassis,Duster Chassis,Каркас кукурузника
+vehicleDusterchassisDesc,Parts needed to craft the Duster.,"Запчасть, которая используется для создания кукурузника."
+vehicleDusteraccessories,Duster Accessories,Запчасти кукурузника
+vehicleDusteraccessoriesDesc,Parts needed to craft the Duster.,"Запчасть, которая используется для создания кукурузника."
+vehicleDuster,Duster,Кукурузник
+vehicleDusterplaceable,Duster,Кукурузник
+vehicleDusterplaceableDesc,It looks like it should fly...,Кажется оно должно летать...
+,,
+vehicleStallionchassis,Stallion Chassis,Каркас Fard Mustang
+vehicleStallionchassisDesc,Parts needed to craft the Stallion.,"Запчасть, которая используется для создания Fard Mustang."
+vehicleStallionaccessories,Stallion Accessories,Запчасти Fard Mustang
+vehicleStallionaccessoriesDesc,Parts needed to craft the Stallion.,"Запчасть, которая используется для создания Fard Mustang."
+vehicleStalliongreen,Stallion,Fard Mustang (Зеленый)
+vehicleStalliongreenplaceable,Stallion Green,Fard Mustang (Зеленый)
+vehicleStalliongreenplaceableDesc,Classic...,Классика...
+vehicleStallionred,Stallion,Fard Mustang (Красный)
+vehicleStallionredplaceable,Stallion Red,Fard Mustang (Красный)
+vehicleStallionredplaceableDesc,Classic...,Классика...
+vehicleStallionblue,Stallion,Fard Mustang (Синий)
+vehicleStallionblueplaceable,Stallion Blue,Fard Mustang (Синий)
+vehicleStallionblueplaceableDesc,Classic...,Классика...
+vehicleStallionwhite,Stallion,Fard Mustang (Белый)
+vehicleStallionwhiteplaceable,Stallion White,Fard Mustang (Белый)
+vehicleStallionwhiteplaceableDesc,Classic...,Классика...
+vehicleStallion,Stallion,Fard Mustang
+vehicleStallionplaceable,Stallion,Fard Mustang
+vehicleStallionplaceableDesc,Classic...,Классика...
+,,
+vehicleDirtBike,Dirt Bike,Кросс-байк
+vehicleDirtBikeplaceable,Dirt Bike,Кросс-байк
+vehicleDirtBikeplaceableDesc,A dirt bike. And no neighbors to complain about it. Sweet!,"Кросс-байк. И никаких соседей, чтобы жаловаться на него. Прекрасно!"
+vehicleDirtBikeChassis,Dirt Bike Chassis,Каркас кросс-байка
+vehicleDirtBikeChassisDesc,The beginning of something...awesome!,Начало чего-то... потрясающего!
+vehicleDirtBikeParts,Dirt Bike Parts,Запчасти кросс-байка
+vehicleDirtBikePartsDesc,You might need these.,Они могут вам понадобиться.
+,,
+vehicleChargerchassis,Charger Chassis,Каркас Didge Charger
+vehicleChargerchassisDesc,Parts needed to craft the Charger.,"Запчасть, которая используется для создания Didge Charger."
+vehicleChargeraccessories,Charger Accessories,Запчасти Didge Charger
+vehicleChargeraccessoriesDesc,Parts needed to craft the Charger.,"Запчасть, которая используется для создания Didge Charger."
+vehicleChargerNew,Charger,Didge Charger
+vehicleChargerNewplaceable,Charger,Didge Charger
+vehicleChargerNewplaceableDesc,Classic...,Классика...
+vehicleChargerOld,Charger,Didge Charger
+vehicleChargerOldplaceable,Charger,Didge Charger
+vehicleChargerOldplaceableDesc,Classic...,Классика...
+vehicleChargerorange,Charger,Didge Charger
+vehicleChargerorangeplaceable,Charger,Didge Charger
+vehicleChargerorangeplaceableDesc,Classic...,Классика...
+vehicleChargerorange2,Charger,Didge Charger
+vehicleChargerorange2placeable,Charger,Didge Charger
+vehicleChargerorange2placeableDesc,Classic...,Классика...
+vehicleChargerblack,Charger,Didge Charger
+vehicleChargerblackplaceable,Charger,Didge Charger
+vehicleChargerblackplaceableDesc,Classic...,Классика...
+vehicleChargerblack2,Charger,Didge Charger
+vehicleChargerblack2placeable,Charger,Didge Charger
+vehicleChargerblack2placeableDesc,Classic...,Классика...
+vehicleChargeryellow,Charger,Didge Charger
+vehicleChargeryellowplaceable,Charger,Didge Charger
+vehicleChargeryellowplaceableDesc,Classic...,Классика...
+vehicleChargeryellow2,Charger,Didge Charger
+vehicleChargeryellow2placeable,Charger,Didge Charger
+vehicleChargeryellow2placeableDesc,Classic...,Классика...
+vehicleChargergreen,Charger,Didge Charger
+vehicleChargergreenplaceable,Charger,Didge Charger
+vehicleChargergreenplaceableDesc,Classic...,Классика...
+vehicleChargergreen2,Charger,Didge Charger
+vehicleChargergreen2placeable,Charger,Didge Charger
+vehicleChargergreen2placeableDesc,Classic...,Классика...
+vehicleChargerteal,Charger,Didge Charger
+vehicleChargertealplaceable,Charger,Didge Charger
+vehicleChargertealplaceableDesc,Classic...,Классика...
+vehicleChargerteal2,Charger,Didge Charger
+vehicleChargerteal2placeable,Charger,Didge Charger
+vehicleChargerteal2placeableDesc,Classic...,Классика...
+vehicleChargerrust,Charger,Didge Charger
+vehicleChargerrustplaceable,Charger,Didge Charger
+vehicleChargerrustplaceableDesc,Classic...,Классика...
+vehicleChargerrust2,Charger,Didge Charger
+vehicleChargerrust2placeable,Charger,Didge Charger
+vehicleChargerrust2placeableDesc,Classic...,Классика...
+,,
+vehicleJunker,Junker,Ржавобайк
+vehicleJunkerplaceable,Junker,Ржавобайк
+vehicleJunkerplaceableDesc,An old custom bike.,Старый кастомный байк.
+vehicleJunker2,Junker,Ржавобайк
+vehicleJunker2placeable,Junker Purple,Ржавобайк (Фиолетовый)
+vehicleJunker2placeableDesc,An old custom bike.,Старый кастомный байк.
+vehicleJunkerChassis,Junker Chassis,Каркас Ржавобайка
+vehicleJunkerChassisDesc,The beginning of something...awesome!,Начало чего-то... потрясающего!
+vehicleJunkerbars,Junker Handlebars,Руль Ржавобайка
+vehicleJunkerbarsDesc,You might need these.,Они могут вам понадобиться.
+,,
+vehicleCruiser,Cruiser,Круизер
+vehicleCruiserplaceable,Cruiser,Круизер
+vehicleCruiserplaceableDesc,A custom Cruiser. Sweet!,Кастомный круизер. Прекрасно!
+vehicleCruiser2,Cruiser,Круизер
+vehicleCruiser2placeable,Cruiser Faded,Круизер (Блеклый)
+vehicleCruiser2placeableDesc,A custom Cruiser. Sweet!,Кастомный круизер. Прекрасно!
+vehicleCruiserchassis,Cruiser Chassis,Каркас круизера
+vehicleCruiserchassisDesc,The beginning of something...awesome!,Начало чего-то... потрясающего!
+vehicleCruiserbars,Cruiser Handlebars,Руль круизера
+vehicleCruiserbarsDesc,You might need these.,Они могут вам понадобиться.
+,,
+vehicleRat,Rat,Rat
+vehicleRatplaceable,Rat,Rat
+vehicleRatplaceableDesc,A custom Rat bike.,Кастомный Rat-байк
+vehicleRat2,Rat,Rat
+vehicleRat2placeable,Rat Red,Rat (Красный)
+vehicleRat2placeableDesc,A custom Rat bike.,Кастомный Rat-байк
+vehicleRatChassis,Rat Chassis,Каркас Rat
+vehicleRatChassisDesc,The beginning of something...awesome!,Начало чего-то... потрясающего!
+vehicleRatbars,Rat Handlebars,Руль Rat
+vehicleRatbarsDesc,You might need these.,Они могут вам понадобиться.
+,,
+vehicleSHERPchassis,SHERP Chassis,Каркас ШЕРПа
+vehicleSHERPchassisDesc,Parts needed to craft the SHERP.,"Запчасть, которая используется для создания ШЕРП."
+vehicleSHERPaccessories,SHERP Accessories,Запчасти ШЕРПа
+vehicleSHERPaccessoriesDesc,Parts needed to craft the SHERP.,"Запчасть, которая используется для создания ШЕРП."
+vehicleSHERP,SHERP,ШЕРП
+vehicleSHERPplaceable,SHERP,ШЕРП
+vehicleSHERPplaceableDesc,A custom offroad vehicle.,Кастомный вездеход.
+,,
+vehicleUH60chassis,UH-60 Chassis,Каркас UH-60
+vehicleUH60chassisDesc,Parts needed to craft the UH-60.,"Запчасть, которая используется для создания UH-60."
+vehicleUH60accessories,UH-60 Accessories,Запчасти UH-60
+vehicleUH60accessoriesDesc,Parts needed to craft the UH-60.,"Запчасть, которая используется для создания UH-60."
+vehicleUH60,UH-60,UH-60
+vehicleUH60placeable,UH-60,UH-60
+vehicleUH60placeableDesc,They can't kill you if they can't hit you!,"Они не смогут убить тебя, если не смогут достать!"
+,,
+vehicleHotRodchassis,Hot Rod Chassis,Каркас хот-рода
+vehicleHotRodchassisDesc,Parts needed to craft the Hot Rod.,"Запчасть, которая используется для создания хот-рода."
+vehicleHotRodaccessories,Hot Rod Accessories,Запчасти хот-рода
+vehicleHotRodaccessoriesDesc,Parts needed to craft the Hot Rod.,"Запчасть, которая используется для создания хот-рода."
+vehicleHotRod1,Hot Rod,Хот-род
+vehicleHotRod2,Hot Rod,Хот-род
+vehicleHotRod3,Hot Rod,Хот-род
+vehicleHotRod4,Hot Rod,Хот-род
+vehicleHotRod5,Hot Rod,Хот-род
+vehicleHotRod6,Hot Rod,Хот-род
+vehicleHotRod1placeable,Hot Rod,Хот-род
+vehicleHotRod1placeableDesc,A custom hot rod.,Кастомный хот-род
+vehicleHotRod2placeable,Hot Rod,Хот-род
+vehicleHotRod2placeableDesc,A custom hot rod.,Кастомный хот-род
+vehicleHotRod3placeable,Hot Rod,Хот-род
+vehicleHotRod3placeableDesc,A custom hot rod.,Кастомный хот-род
+vehicleHotRod4placeable,Hot Rod,Хот-род
+vehicleHotRod4placeableDesc,A custom hot rod.,Кастомный хот-род
+vehicleHotRod5placeable,Hot Rod,Хот-род
+vehicleHotRod5placeableDesc,A custom hot rod.,Кастомный хот-род
+vehicleHotRod6placeable,Hot Rod,Хот-род
+vehicleHotRod6placeableDesc,A custom hot rod.,Кастомный хот-род
+,,
+vehicleHumveechassis,Humvee Chassis,Каркас хаммера
+vehicleHumveechassisDesc,Parts needed to craft the Humvee.,"Запчасть, которая используется для создания хаммера."
+vehicleHumveebody,Humvee Body,Кузов хаммера
+vehicleHumveebodyDesc,Parts needed to craft the Humvee.,"Запчасть, которая используется для создания хаммера."
+vehicleHumvee,Humvee,Хаммер
+vehicleHumveeplaceable,Humvee,Хаммер
+vehicleHumveeplaceableDesc,Military surplus at its finest!,Лучшее военное излишество!
+vehicleHumveeTopless,Humvee,Хаммер
+vehicleHumveeToplessplaceable,Humvee (Topless),Хаммер (Без верха)
+vehicleHumveeToplessplaceableDesc,Military surplus at its finest!,Лучшее военное излишество!
+modVehicleHumveeDoors,Humvee Doors,Двери Хаммера
+modVehicleHumveeDoorsDesc,Equip this mod to your Humvee if you want it to have doors.,"Установи этот мод в свой Хаммер, если хочешь двери к нему"
+,,
+vehicleBuggychassis,Buggy Chassis,Каркас багги
+vehicleBuggychassisDesc,Parts needed to craft the Buggy.,"Запчасть, которая используется для создания багги."
+vehicleBuggyaccessories,Buggy Accessories,Запчасти багги
+vehicleBuggyaccessoriesDesc,Parts needed to craft the Buggy.,"Запчасть, которая используется для создания багги."
+vehicleBuggy,Buggy,Багги
+vehicleBuggyplaceable,Buggy,Багги
+vehicleBuggyplaceableDesc,An old offroad buggy.,Старый внедорожный багги.
+,,
+vehicleOldSemichassis,Old Semi Chassis,Каркас полуприцепа
+vehicleOldSemichassisDesc,Parts needed to craft the Old Semi.,"Запчасть, которая используется для создания полуприцепа."
+vehicleOldSemibody,Old Semi Body,Кузов полуприцепа
+vehicleOldSemibodyDesc,Parts needed to craft the Old Semi.,"Запчасть, которая используется для создания полуприцепа."
+vehicleOldSemi,Old Semi,Старый полуприцеп
+vehicleOldSemiplaceable,Old Semi,Старый полуприцеп
+vehicleOldSemiplaceableDesc,"You better watch your step, Arlene!","Лучше будь осторожна, Крикуша!"
+,,
+vehicleLMTVchassis,LMTV Chassis,Каркас LMTV
+vehicleLMTVchassisDesc,Parts needed to craft the LMTV.,"Запчасть, которая используется для создания LMTV."
+vehicleLMTVbody,LMTV Body,Кузов LMTV
+vehicleLMTVbodyDesc,Parts needed to craft the LMTV.,"Запчасть, которая используется для создания LMTV."
+vehicleLMTV,LMTV,LMTV
+vehicleLMTVplaceable,LMTV,LMTV
+vehicleLMTVplaceableDesc,Military transport vehicle. Holds 6 people.,Военное транспортное средство. Вмещает 6 человек.
+,,
+vehicleBoxTruckchassisSchematic,Box Truck Chassis Schematic,Схема «Каркас фургона»
+vehicleBoxTruckbodySchematic,Box Truck Body Schematic,Схема «Кузов фургона»
+vehicleBRDM2chassisSchematic,BRDM-2 Chassis Schematic,Схема «Каркас БРДМ-2»
+vehicleBRDM2accessoriesSchematic,BRDM-2 Accessories Schematic,Схема «Запчасти БРДМ-2»
+vehicleBuggychassisSchematic,Buggy Chassis Schematic,Схема «Каркас багги»
+vehicleBuggyaccessoriesSchematic,Buggy Accessories Schematic,Схема «Запчасти багги»
+vehicleChargerchassisSchematic,Charger Chassis Schematic,Схема «Каркас Didge Charger»
+vehicleChargeraccessoriesSchematic,Charger Accessories Schematic,Схема «Запчасти Didge Charger»
+vehicleCruiserchassisSchematic,Cruiser Chassis Schematic,Схема «Каркас круизера»
+vehicleCruiserbarsSchematic,Cruiser Handlebars Schematic,Схема «Руль круизера»
+vehicleDirtBikeChassisSchematic,Dirt Bike Chassis Schematic,Схема «Каркас кросс-байка»
+vehicleDirtBikePartsSchematic,Dirt Bike Parts Schematic,Схема «Запчасти кросс-байка»
+vehicleDusterchassisSchematic,Duster Chassis Schematic,Схема «Каркас кукурузника»
+vehicleDusteraccessoriesSchematic,Duster Accessories Schematic,Схема «Запчасти кукурузника»
+vehicleGNXchassisSchematic,GNX Chassis Schematic,Схема «Каркас Byik GNX»
+vehicleGNXaccessoriesSchematic,GNX Body Schematic,Схема «Кузов Byik GNX»
+vehicleGolfCartchassisSchematic,Golf Cart Chassis Schematic,Схема «Каркас гольф-карта»
+vehicleGolfCartaccessoriesSchematic,Golf Cart Accessories Schematic,Схема «Запчасти гольф-карта»
+vehicleHotRodchassisSchematic,Hot Rod Chassis Schematic,Схема «Каркас хот-рода»
+vehicleHotRodaccessoriesSchematic,Hot Rod Accessories Schematic,Схема «Запчасти хот-рода»
+vehicleHumveechassisSchematic,Humvee Chassis Schematic,Схема «Каркас хаммера»
+vehicleHumveebodySchematic,Humvee Body Schematic,Схема «Кузов хаммера»
+vehicleJunkerChassisSchematic,Junker Chassis Schematic,Схема «Каркас Ржавобайка»
+vehicleJunkerbarsSchematic,Junker Handlebars Schematic,Схема «Руль Ржавобайка»
+vehicleLMTVchassisSchematic,LMTV Chassis Schematic,Схема «Каркас LMTV»
+vehicleLMTVbodySchematic,LMTV Body Schematic,Схема «Кузов LMTV»
+vehicleMarauderchassisSchematic,Marauder Chassis Schematic,Схема «Каркас Мародера»
+vehicleMarauderaccessoriesSchematic,Marauder Accessories Schematic,Схема «Запчасти Мародера»
+vehicleMD500chassisSchematic,MD-500 Chassis Schematic,Схема «Каркас MD-500»
+vehicleMD500accessoriesSchematic,MD-500 Accessories Schematic,Схема «Запчасти MD-500»
+vehicleMRAPpartsSchematic,MRAP Parts Schematic,Схема «Запчасти MRAP»
+vehicleMRAPaccessoriesSchematic,MRAP Accessories Schematic,Схема «Обвес MRAP»
+vehicleNovachassisSchematic,Nova Chassis Schematic,Схема «Каркаc Chewrolat Nova»
+vehicleNovaaccessoriesSchematic,Nova Accessories Schematic,Схема «Запчасти Chewrolat Nova»
+vehicleOldSemichassisSchematic,Old Semi Chassis Schematic,Схема «Каркас полуприцепа»
+vehicleOldSemibodySchematic,Old Semi Body Schematic,Схема «Запчасти полуприцепа»
+vehiclePickupchassisSchematic,Pickup Chassis Schematic,Схема «Каркас пикапа»
+vehiclePickupaccessoriesSchematic,Pickup Accessories Schematic,Схема «Запчасти пикапа»
+vehicleRatChassisSchematic,Rat Chassis Schematic,Схема «Каркас Rat»
+vehicleRatbarsSchematic,Rat Handlebars Schematic,Схема «Руль Rat»
+vehicleSHERPchassisSchematic,SHERP Chassis Schematic,Схема «Каркас ШЕРПа»
+vehicleSHERPaccessoriesSchematic,SHERP Accessories Schematic,Схема «Запчасти ШЕРПа»
+vehicleStallionchassisSchematic,Stallion Chassis Schematic,Схема «Каркас Fard Mustang»
+vehicleStallionaccessoriesSchematic,Stallion Accessories Schematic,Схема «Запчасти Fard Mustang»
+vehicleUAZ452chassisSchematic,UAZ 452 Chassis Schematic,Схема «Каркаc УАЗ-452»
+vehicleUH60chassisSchematic,UH-60 Chassis Schematic,Схема «Каркас UH-60»
+vehicleUH60accessoriesSchematic,UH-60 Accessories Schematic,Схема «Запчасти UH-60»
+vehicleWorkTruckchassisSchematic,Work Truck Chassis Schematic,Схема «Кузов служебного грузовика»
+vehicleWorkTruckaccessoriesSchematic,Work Truck Accessories Schematic,Схема «Запчасти служебного грузовика»
+,,
+questRewardBoxTruckPartsBundle,Box Truck Parts Bundle,Комплект запчастей к фургону
+questRewardBRDMPartsBundle,BRDM-2 Parts Bundle,Комплект запчастей к БРДМ-2
+questRewardBuggyPartsBundle,Buggy Parts Bundle,Комплект запчастей к багги
+questRewardChargerPartsBundle,Charger Parts Bundle,Комплект запчастей к Didge Charger
+questRewardCruiserPartsBundle,Cruiser Parts Bundle,Комплект запчастей к круизеру
+questRewardDirtBikePartsBundle,Dirt Bike Parts Bundle,Комплект запчастей к кросс-байку
+questRewardDusterPartsBundle,Duster Parts Bundle,Комплект запчастей к кукурузнику
+questRewardGNXPartsBundle,GNX Parts Bundle,Комплект запчастей к Byik GNX
+questRewardGolfCartPartsBundle,Golf Cart Parts Bundle,Комплект запчастей к гольф-карту
+questRewardHotRodPartsBundle,Hot Rod Parts Bundle,Комплект запчастей к хот-роду
+questRewardHumveePartsBundle,Humvee Parts Bundle,Комплект запчастей к Хаммеру
+questRewardJunkerPartsBundle,Junker Parts Bundle,Комплект запчастей к ржавобайку
+questRewardLMTVPartsBundle,LMTV Parts Bundle,Комплект запчастей к LMTV
+questRewardMarauderPartsBundle,Marauder Parts Bundle,Комплект запчастей к Мародеру
+questRewardMD500PartsBundle,MD-500 Parts Bundle,Комплект запчастей к MD-500
+questRewardMRAPPartsBundle,MRAP Parts Bundle,Комплект запчастей к MRAP
+questRewardNovaPartsBundle,Nova Parts Bundle,Комплект запчастей к Chewrolat Nova
+questRewardOldSemiPartsBundle,Old Semi Parts Bundle,Комплект запчастей к полуприцепу
+questRewardPickupPartsBundle,Pickup Parts Bundle,Комплект запчастей к пикапу
+questRewardRatPartsBundle,Rat Parts Bundle,Комплект запчастей к Rat
+questRewardSHERPPartsBundle,SHERP Parts Bundle,Комплект запчастей к ШЕРПу
+questRewardStallionPartsBundle,Stallion Parts Bundle,Комплект запчастей к Fard Mustang
+questRewardUAZ452PartsBundle,UAZ 452 Parts Bundle,Комплект запчастей к УАЗ-452
+questRewardUH60PartsBundle,UH-60 Parts Bundle,Комплект запчастей к UH-60
+questRewardWorkTruckPartsBundle,Work Truck Parts Bundle,Комплект запчастей к служебному грузовику
+,,
+modVehicleArmorDesc,"Reinforced armor for motorcycles and gyrocopters, as well as other select vehicles.\n\nReduces the damage taken when objects hit the vehicle. Increases damage to blocks and entities.","Усиленная броня для мотоциклов и автожиров, а также других видов транспортных средств.\n\nУменьшает урон, получаемый при попадании объектов в переднюю часть транспортного средства. Увеличивает урон по блокам и существам."

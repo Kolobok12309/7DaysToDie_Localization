@@ -1,2 +1,8 @@
-# 7DaysToDie_Localization
-Repository with Ru localizations for mods to 7 Days to die
+# 7 Days to die Localization
+
+Repository with Ru localizations for mods to `7 Days to die`
+Репозиторий с переводами модов `7 Days to die` на Русский язык
+
+## Список модов
+
+- Bdub's Vehicles [[Orig](https://www.nexusmods.com/7daystodie/mods/342)] [[Translate](https://www.nexusmods.com/7daystodie/mods/6530)] [[Code](./bdubs_vehicles)]
