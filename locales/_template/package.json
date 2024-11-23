@@ -1,0 +1,10 @@
+{
+  "name": "locale-template",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "locale-build"
+  },
+  "devDependencies": {
+    "scripts": "workspace:*"
+  }
+}
