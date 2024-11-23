@@ -4,7 +4,7 @@
   "description": "Ru localizations for mods to 7 Days to die",
   "scripts": {
     "build": "turbo run build",
-    "add-locale": "turbo gen locale"
+    "gen": "turbo gen"
   },
   "private": true,
   "keywords": [],
@@ -16,6 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "@turbo/gen": "^2.3.1",
+    "steam-game-path": "^2.3.0",
     "turbo": "^2.3.1"
   }
 }
