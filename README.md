@@ -1,6 +1,7 @@
 # 7 Days to die Localization
 
 Repository with Ru localizations for mods to `7 Days to die`
+
 Репозиторий с переводами модов `7 Days to die` на Русский язык
 
 ## Список модов
