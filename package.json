@@ -1,0 +1,19 @@
+{
+  "name": "7days-to-die-localization",
+  "version": "1.0.0",
+  "description": "Ru localizations for mods to 7 Days to die",
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "private": true,
+  "keywords": [],
+  "author": {
+    "name": "Dmitriy",
+    "email": "sova123409@gmail.com"
+  },
+  "packageManager": "pnpm@9.14.2",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^2.3.1"
+  }
+}
