@@ -30,6 +30,12 @@ importers:
         specifier: workspace:*
         version: link:../../packages/scripts
 
+  locales/darkness-falls:
+    devDependencies:
+      scripts:
+        specifier: workspace:*
+        version: link:../../packages/scripts
+
   packages/scripts:
     dependencies:
       glob:
