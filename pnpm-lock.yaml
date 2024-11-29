@@ -30,6 +30,12 @@ importers:
         specifier: workspace:*
         version: link:../../packages/scripts
 
+  locales/craftable_solar_stuff:
+    devDependencies:
+      scripts:
+        specifier: workspace:*
+        version: link:../../packages/scripts
+
   packages/scripts:
     dependencies:
       glob:
