@@ -1,0 +1,18 @@
+Key,english
+xuiDF,Darkness Falls Options
+goSHZombiesMin,Screamer Horde Zombies Min
+goSHZombiesMinDesc,Minimum amount of zombies the screamer can spawn
+goSHZombiesMax,Screamer Horde Zombies Max
+goSHZombiesMaxDesc,Maximum amount of zombies the screamer can spawn
+goWHHoursMin,Wandering Horde Min Hours
+goWHHoursMinDesc,"When generating a random number for when the wandering horde can spawn, the game uses this as a minimum"
+goWHHoursMax,Wandering Horde Max Hours
+goWHHoursMaxDesc,"When generating a random number for when the wandering horde can spawn, the game uses this as a maximum"
+goWHZombiesMin,Wandering Horde Zombies Min
+goWHZombiesMinDesc,Minimum amount of zombies the wandering horde can spawn
+goWHZombiesMax,Wandering Horde Zombies Max
+goWHZombiesMaxDesc,Maximum amount of zombies the wandering horde can spawn
+goHours,{0} Hours
+goZombies,{0} Zombies
+goKillXHairrs,No Crosshairs
+goKillXHairrsDesc,"Disables crosshairs in the game. All crosshairs. Yes, including melee and while not aiming"
